@@ -173,7 +173,7 @@ class Demo extends Bar implements Bar
 }
 ```
 
-### 7.1
+### 7.1 Template
 
 ```php
 <?php declare(strict=1); ?>
